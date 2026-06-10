@@ -1,4 +1,4 @@
-# CS19X-Brugada-Syndrome-Classifier
+# Explainable AI Detection of Brugada ECG Patterns
 
 Elijah Mejilla and Edzo Acyatan
 CS 198, UP Diliman - Department of Computer Science
